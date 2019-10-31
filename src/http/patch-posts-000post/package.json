@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-patch-posts-000post",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}

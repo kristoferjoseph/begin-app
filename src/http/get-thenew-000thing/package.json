@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-get-thenew-000thing",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}
