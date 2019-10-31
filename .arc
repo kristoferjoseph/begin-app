@@ -1,12 +1,7 @@
-# Warning! Do Not Edit
-# --------------------
-# This is a generated file and will be overwritten
-
 @app
 ship-dqp
 
 @static
-
 
 @http
 get /
