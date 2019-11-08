@@ -1,4 +1,4 @@
-# Hey, it's a Begin app! ✨
+# Hey, it's a new Begin app! ✨
 
 
 ## Getting started
