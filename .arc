@@ -13,6 +13,7 @@ patch /posts/:post
 get /account/:accountID
 get /another
 get /thenew/:thing
+get /another/one
 
 @tables
 data
