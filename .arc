@@ -4,7 +4,6 @@ ship-dqp
 @static
 
 @http
-get /
 get /posts
 post /posts/:post
 delete /posts/:post
