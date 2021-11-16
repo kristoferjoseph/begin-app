@@ -13,7 +13,7 @@
     "tiny-json-http": "latest"
   },
   "devDependencies": {
-    "aws-sdk": "^2.392.0",
+    "aws-sdk": "^2.814.0",
     "eslint": "^5.12.1",
     "tap-spec": "^5.0.0",
     "tape": "^4.9.2"
